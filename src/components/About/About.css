@@ -1,0 +1,22 @@
+.main{
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(80deg, black, gray);
+   color:white;
+}
+.a-main{
+    display: flex;
+    align-items: center;
+    margin: 30px;
+}
+.a-left{
+    width: 70%;
+    margin: 50px;
+}
+.a-right p{
+    font-size: 16px;
+}
+.a-right h4{
+    color: green;
+
+}
